@@ -1,0 +1,376 @@
+<!-- - -->
+								<div class="tab-pane fade" id="tab2-2" role="tabpanel">
+									<div class="row">
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="m-b-30">
+												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+													<img src="images/post-13.jpg" alt="IMG">
+												</a>
+
+												<div class="p-t-20">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+															Bitcoin lorem ipsum dolor sit amet consectetur 
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
+															Finance
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 18
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-12.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Small Business
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 17
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-11.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Economy
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 16
+														</span>
+													</span>
+												</div>
+											</div>
+
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-10.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Money & Markets
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 12
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- - -->
+								<div class="tab-pane fade" id="tab2-3" role="tabpanel">
+									<div class="row">
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="m-b-30">
+												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+													<img src="images/post-11.jpg" alt="IMG">
+												</a>
+
+												<div class="p-t-20">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+															Bitcoin lorem ipsum dolor sit amet consectetur 
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
+															Finance
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 18
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-12.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Small Business
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 17
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-13.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Economy
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 16
+														</span>
+													</span>
+												</div>
+											</div>
+
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-10.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Money & Markets
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 12
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- - -->
+								<div class="tab-pane fade" id="tab2-4" role="tabpanel">
+									<div class="row">
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="m-b-30">
+												<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
+													<img src="images/post-12.jpg" alt="IMG">
+												</a>
+
+												<div class="p-t-20">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-m-3 cl2 hov-cl10 trans-03">
+															Bitcoin lorem ipsum dolor sit amet consectetur 
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-4 cl8 hov-cl10 trans-03">
+															Finance
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 18
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-sm-6 p-r-25 p-r-15-sr991">
+											<!-- Item post -->	
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-13.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Small Business
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 17
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-10.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Economy
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 16
+														</span>
+													</span>
+												</div>
+											</div>
+
+											<!-- Item post -->
+											<div class="flex-wr-sb-s m-b-30">
+												<a href="blog-detail-01.html" class="size-w-1 wrap-pic-w hov1 trans-03">
+													<img src="images/post-11.jpg" alt="IMG">
+												</a>
+
+												<div class="size-w-2">
+													<h5 class="p-b-5">
+														<a href="blog-detail-01.html" class="f1-s-5 cl3 hov-cl10 trans-03">
+															Donec metus orci, malesuada et lectus vitae
+														</a>
+													</h5>
+
+													<span class="cl8">
+														<a href="#" class="f1-s-6 cl8 hov-cl10 trans-03">
+															Money & Markets
+														</a>
+
+														<span class="f1-s-3 m-rl-3">
+															-
+														</span>
+
+														<span class="f1-s-3">
+															Feb 12
+														</span>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
